@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Agila Theme",
+		"AlignTab",
+		"AutoFileName",
+		"ayu",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"Codecs33",
+		"Color Highlighter",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"Emmet",
+		"FAlign",
+		"Git",
+		"HTML Snippets",
+		"HTML-CSS-JS Prettify",
+		"JavaScript & NodeJS Snippets",
+		"Package Control",
+		"Pretty JSON",
+		"Select Quoted",
+		"SideBarEnhancements",
+		"Theme - Spacegray"
+	]
+}

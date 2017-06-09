@@ -1,0 +1,5 @@
+[
+	{ "keys": ["super+ctrl+q"], "command": "alignment" },
+	// { "keys": ["ctrl+y"], "command": "expand_selection", "args": {"to": "brackets"} }
+	{ "keys": ["super+shift+l"], "command": "expand_selection", "args": {"to": "tag"} }
+]
